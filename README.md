@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Shyamk007
 - 🌱 I’m currently learning PG-DAC
 
-<!---
-Shyamk007/Shyamk007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <div align=center>
         <h1>Contribution Activity</h1>
@@ -27,6 +23,3 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ravitambade&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
