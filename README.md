@@ -39,7 +39,7 @@
 
 ## Social Media
 <div id="badges">
-  <a href="linkedin.com/in/shyam-karhale-a429b8131">
+  <a href="https://www.linkedin.com/in/shyam-karhale-a429b8131/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/shyamk07">
