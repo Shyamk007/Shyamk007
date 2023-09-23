@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shyamk007
-- 🌱 I’m currently learning PG-DAC
+
 
 
 <div align=center>
